@@ -87,7 +87,7 @@ The system efficiently manages students, courses, GPA, fees, and records using *
 - Data automatically loads on startup  
 - Data saved safely on exit  
 
---
+---
 
 ## 🖥️ How to Compile & Run
 
