@@ -87,18 +87,7 @@ The system efficiently manages students, courses, GPA, fees, and records using *
 - Data automatically loads on startup  
 - Data saved safely on exit  
 
----
-
-## 🗂️ File Structure
-
-student-management-system-dsa/
-│
-├── main.cpp
-├── students.txt
-├── courses.txt
-└── README.md
-
----
+--
 
 ## 🖥️ How to Compile & Run
 
